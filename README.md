@@ -69,7 +69,7 @@ space
 #
 
 8. Sarcasm is lost in print
-Handle the following length modifiers for non-custom conversion specifiers:
+Handle the following length modifiers for non-custom conversion  specifiers only:
 
 l
 h
